@@ -10,28 +10,32 @@ The graphs obtained are shown below and a brief summary of the findings is given
 
 Checkout Times for Users
 
-Image 1
+![IMAGE1](https://user-images.githubusercontent.com/96089967/163074079-02f0a888-9145-40eb-b593-ad22a31d0432.png)
 
 In this visualization, was graph the length of time that bikes are checked out for all riders.
 
 
 Checkout Times by Gender
-image 2
+![IMAGE2](https://user-images.githubusercontent.com/96089967/163074104-087436dd-9bfe-451a-9996-b073ff69aff9.png)
+
 In this visualization, was graph the length of time that bikes are checked out for each gender.
 
 Trips by Weekday per Hour
-image 3
-In this visualization, you’ll graph the number of bike trips by weekday for each hour of the day as a heatmap.
+![IMAGE3](https://user-images.githubusercontent.com/96089967/163074175-880773ad-29c3-4bb1-a1f1-611f46e11a48.png)
+
+In this visualization, was graph the number of bike trips by weekday for each hour of the day as a heatmap.
 
 
 Trips by Gender (Weekday per hour)
-image 4
-In this visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap
+![IMAGE4](https://user-images.githubusercontent.com/96089967/163074213-ff2eaf08-f4ca-43a7-bc05-e224eae90d99.png)
+
+In this visualization, was graph the number of bike trips by gender for each hour of each day of the week as a heatmap
 
 
 User trips by Gender by weekday
-image 5
-In this visualization, you'll create a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype
+![IMAGE5](https://user-images.githubusercontent.com/96089967/163074268-e0548045-b05c-4bca-8a93-2d3120dd8d70.png)
+
+In this visualization, was a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype
 
 ## Summary
 
