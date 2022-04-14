@@ -29,7 +29,8 @@ Trips by Weekday per Hour
 ![IMAGE3](https://user-images.githubusercontent.com/96089967/163074175-880773ad-29c3-4bb1-a1f1-611f46e11a48.png)
 
 In this visualization, was graph the number of bike trips by weekday for each hour of the day as a heatmap.
-
+Chart link
+https://public.tableau.com/views/Citybike_challenge_Trips_by_Weekday_houtr/TripsbyWeekdayperHour?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Trips by Gender (Weekday per hour)
 ![IMAGE4](https://user-images.githubusercontent.com/96089967/163074213-ff2eaf08-f4ca-43a7-bc05-e224eae90d99.png)
