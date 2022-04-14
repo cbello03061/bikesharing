@@ -22,7 +22,7 @@ Checkout Times by Gender
 
 In this visualization, was graph the length of time that bikes are checked out for each gender.
 Chart ink
-https://public.tableau.com/views/Citybike_challenge/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Citybike_challenge_Checkout_time_Gender/CheckoutTimesbyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 Trips by Weekday per Hour
