@@ -32,11 +32,14 @@ In this visualization, was graph the number of bike trips by weekday for each ho
 Chart link
 https://public.tableau.com/views/Citybike_challenge_Trips_by_Weekday_houtr/TripsbyWeekdayperHour?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+
+
 Trips by Gender (Weekday per hour)
 ![IMAGE4](https://user-images.githubusercontent.com/96089967/163074213-ff2eaf08-f4ca-43a7-bc05-e224eae90d99.png)
 
 In this visualization, was graph the number of bike trips by gender for each hour of each day of the week as a heatmap
-
+Chart Link
+https://public.tableau.com/views/Citybike_challenge_Trips_by_Weekday_gender/TripsbyWeekdayperHour_1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 User trips by Gender by weekday
 ![IMAGE5](https://user-images.githubusercontent.com/96089967/163074268-e0548045-b05c-4bca-8a93-2d3120dd8d70.png)
