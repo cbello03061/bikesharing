@@ -13,7 +13,8 @@ Checkout Times for Users
 ![IMAGE1](https://user-images.githubusercontent.com/96089967/163074079-02f0a888-9145-40eb-b593-ad22a31d0432.png)
 
 In this visualization, was graph the length of time that bikes are checked out for all riders.
-
+Chart link
+https://public.tableau.com/views/Citybike_challenge/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Checkout Times by Gender
 ![IMAGE2](https://user-images.githubusercontent.com/96089967/163074104-087436dd-9bfe-451a-9996-b073ff69aff9.png)
@@ -54,4 +55,4 @@ Other data that could be obtained in the future to increase knowledge of the pro
 
 
 ## link challenge
-https://public.tableau.com/views/Citybike_challenge/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
