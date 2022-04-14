@@ -16,10 +16,14 @@ In this visualization, was graph the length of time that bikes are checked out f
 Chart link
 https://public.tableau.com/views/Citybike_challenge/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+
 Checkout Times by Gender
 ![IMAGE2](https://user-images.githubusercontent.com/96089967/163074104-087436dd-9bfe-451a-9996-b073ff69aff9.png)
 
 In this visualization, was graph the length of time that bikes are checked out for each gender.
+Chart ink
+https://public.tableau.com/views/Citybike_challenge/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 
 Trips by Weekday per Hour
 ![IMAGE3](https://user-images.githubusercontent.com/96089967/163074175-880773ad-29c3-4bb1-a1f1-611f46e11a48.png)
